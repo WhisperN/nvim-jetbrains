@@ -1,0 +1,3 @@
+# maschinenspezifisch, wird von install.sh erzeugt
+nvim/lua/config/ai_local.lua
+.DS_Store
