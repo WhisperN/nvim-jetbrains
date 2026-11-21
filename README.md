@@ -18,7 +18,7 @@ Neovim im JetBrains-Look mit lokaler KI-Completion. Basis ist
 Voraussetzung auf macOS ist [Homebrew](https://brew.sh).
 
 ```bash
-git clone https://github.com/<dein-user>/nvim-jetbrains.git ~/nvim-jetbrains
+git clone https://github.com/WhisperN/nvim-jetbrains.git ~/nvim-jetbrains
 cd ~/nvim-jetbrains
 ./install.sh
 ```
